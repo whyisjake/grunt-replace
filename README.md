@@ -1,4 +1,4 @@
-# grunt-replace [![Build Status](https://img.shields.io/travis/outaTiME/grunt-replace.svg)](https://travis-ci.org/outaTiME/grunt-replace) [![NPM Version](https://img.shields.io/npm/v/grunt-replace.svg)](https://npmjs.org/package/grunt-replace)
+# grunt-regex-replace [![Build Status](https://img.shields.io/travis/outaTiME/grunt-replace.svg)](https://travis-ci.org/outaTiME/grunt-replace) [![NPM Version](https://img.shields.io/npm/v/grunt-replace.svg)](https://npmjs.org/package/grunt-replace)
 
 > Replace text patterns with [applause](https://github.com/outaTiME/applause).
 

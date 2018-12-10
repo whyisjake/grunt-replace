@@ -1,12 +1,12 @@
 {
-  "name": "grunt-replace",
+  "name": "grunt-regex-replace",
   "description": "Replace text patterns with applause.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "outaTiME",
     "url": "http://outa.im/"
   },
-  "repository": "outaTiME/grunt-replace",
+  "repository": "gbochenek/grunt-regex-replace",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.0"
@@ -17,10 +17,10 @@
     "test": "grunt test"
   },
   "dependencies": {
+    "applause": "github:toranb/applause",
     "chalk": "^1.1.0",
-    "lodash": "^4.11.0",
-    "applause": "1.2.2",
-    "file-sync-cmp": "^0.1.0"
+    "file-sync-cmp": "^0.1.0",
+    "lodash": "^4.11.0"
   },
   "devDependencies": {
     "grunt": "^1.0.0",

@@ -1,6 +1,10 @@
-# grunt-replace [![Build Status](https://img.shields.io/travis/outaTiME/grunt-replace.svg)](https://travis-ci.org/outaTiME/grunt-replace) [![NPM Version](https://img.shields.io/npm/v/grunt-replace.svg)](https://npmjs.org/package/grunt-replace)
+# grunt-regex-replace
 
 > Replace text patterns with [applause](https://github.com/outaTiME/applause).
+
+## Fork
+
+This fork was created from outaTiME/grunt-regex-replace to update insecure dependencies.
 
 ## Install
 
@@ -408,6 +412,7 @@ replace: {
 
 ## Release History
 
+ * 2018-10-12   v1.0.2   Forked and bumped insecure dependencies
  * 2016-04-19   v1.0.1   Fix bad README.md file.
  * 2016-04-19   v1.0.0   Add timestamp option to disable preserving timestamp when copying. Bump devDependencies. Point main to task and remove peerDeps.
  * 2015-09-09   v0.11.0   Improvements in handling patterns. Fix plain object representation issue. More test cases.

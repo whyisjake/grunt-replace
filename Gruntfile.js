@@ -1,6 +1,6 @@
 
 /*
- * grunt-replace
+ * grunt-regex-replace
  *
  * Copyright (c) 2016 outaTiME
  * Licensed under the MIT license.
@@ -32,7 +32,7 @@ module.exports = function(grunt) {
       test: ['tmp']
     },
 
-    replace: {
+    regex-replace: {
       simple: {
         options: {
           variables: {
@@ -122,8 +122,8 @@ module.exports = function(grunt) {
 
   grunt.registerTask('test', [
     'clean',
-    'replace:simple',
-    'replace:built-in',
+    'regex-replace:simple',
+    'regex-replace:built-in',
     'mochaTest'
   ]);
   grunt.registerTask('default', [
