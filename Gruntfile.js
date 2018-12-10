@@ -1,6 +1,6 @@
 
 /*
- * grunt-regex-replace
+ * grunt-replace-regex
  *
  * Copyright (c) 2016 outaTiME
  * Licensed under the MIT license.

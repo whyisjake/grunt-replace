@@ -1,10 +1,10 @@
-# grunt-regex-replace
+# grunt-replace-regex
 
 > Replace text patterns with [applause](https://github.com/outaTiME/applause).
 
 ## Fork
 
-This fork was created from outaTiME/grunt-regex-replace to update insecure dependencies.
+This fork was created from outaTiME/grunt-replace-regex to update insecure dependencies.
 
 ## Install
 
