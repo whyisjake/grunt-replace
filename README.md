@@ -1,13 +1,17 @@
-# grunt-replace-regex [![Build Status](https://img.shields.io/travis/outaTiME/grunt-replace.svg)](https://travis-ci.org/outaTiME/grunt-replace) [![NPM Version](https://img.shields.io/npm/v/grunt-replace.svg)](https://npmjs.org/package/grunt-replace)
+# grunt-replace-regex 
 
 > Replace text patterns with [applause](https://github.com/outaTiME/applause).
+
+## Fork
+
+This fork exists to update insecure dependencies, as the outaTiME repo is no longer maintained.
 
 ## Install
 
 From NPM:
 
 ```shell
-npm install grunt-replace --save-dev
+npm install grunt-replace-regex --save-dev
 ```
 
 ## Replace Task
@@ -16,7 +20,7 @@ Assuming installation via NPM, you can use `grunt-replace` in your gruntfile lik
 
 ```javascript
 module.exports = function (grunt) {
-  grunt.loadNpmTasks('grunt-replace');
+  grunt.loadNpmTasks('grunt-replace-regex');
   grunt.initConfig({
     replace: {
       dist: {
