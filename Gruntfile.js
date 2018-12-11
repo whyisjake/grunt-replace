@@ -32,7 +32,7 @@ module.exports = function(grunt) {
       test: ['tmp']
     },
 
-    regex-replace: {
+    replace: {
       simple: {
         options: {
           variables: {
@@ -122,8 +122,8 @@ module.exports = function(grunt) {
 
   grunt.registerTask('test', [
     'clean',
-    'regex-replace:simple',
-    'regex-replace:built-in',
+    'replace:simple',
+    'replace:built-in',
     'mochaTest'
   ]);
   grunt.registerTask('default', [

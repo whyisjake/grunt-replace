@@ -16,7 +16,7 @@ module.exports = function(grunt) {
   var fs = require('fs');
   var chalk = require('chalk');
   var _ = require('lodash');
-  var Applause = require('applause');
+  var Applause = require('next-applause');
   var fileSyncCmp = require('file-sync-cmp');
   var isWindows = process.platform === 'win32';
   // fns
