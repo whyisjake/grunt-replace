@@ -1,7 +1,7 @@
 {
   "name": "grunt-replace-regex",
   "description": "Replace text patterns with applause.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": {
     "name": "outaTiME",
     "url": "http://outa.im/"
