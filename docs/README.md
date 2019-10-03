@@ -1,4 +1,4 @@
-# grunt-replace-regex
+# grunt-replace-lts
 
 > Replace text patterns with [applause](https://github.com/outaTiME/applause).
 
@@ -11,7 +11,7 @@ This fork was created from outaTiME/grunt-replace-regex to update insecure depen
 From NPM:
 
 ```shell
-npm install grunt-replace --save-dev
+npm install grunt-replace-lts --save-dev
 ```
 
 ## Replace Task
