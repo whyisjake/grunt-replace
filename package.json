@@ -1,7 +1,7 @@
 {
   "name": "grunt-replace-lts",
   "description": "Replace text patterns with applause.",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "author": {
     "name": "Jake Spurlock",
     "url": "https://github.com/whyisjake/grunt-replace"
