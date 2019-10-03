@@ -6,7 +6,7 @@
     "name": "Jake Spurlock",
     "url": "https://github.com/whyisjake/grunt-replace"
   },
-  "repository": "whyisjake/grunt-replace-lts",
+  "repository": "whyisjake/grunt-replace",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.0"
