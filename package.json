@@ -3,10 +3,10 @@
   "description": "Replace text patterns with applause.",
   "version": "1.0.3",
   "author": {
-    "name": "outaTiME",
-    "url": "http://outa.im/"
+    "name": "Jake Spurlock",
+    "url": "https://github.com/whyisjake/grunt-replace"
   },
-  "repository": "gbochenek/grunt-replace-regex",
+  "repository": "whyisjake/grunt-replace-regex",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.0"
