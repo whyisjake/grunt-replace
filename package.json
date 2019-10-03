@@ -1,12 +1,12 @@
 {
-  "name": "grunt-replace-regex",
+  "name": "grunt-replace-lts",
   "description": "Replace text patterns with applause.",
   "version": "1.0.3",
   "author": {
     "name": "Jake Spurlock",
     "url": "https://github.com/whyisjake/grunt-replace"
   },
-  "repository": "whyisjake/grunt-replace-regex",
+  "repository": "whyisjake/grunt-replace-lts",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.0"
